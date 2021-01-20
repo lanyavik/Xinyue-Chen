@@ -8,7 +8,7 @@ PhD student in Computer Science.
 
 **E-mail:** chewang[at]nyu[dot]edu
 
-**Links:** [[Github](https://github.com/watchernyu)][[Google Scholar](https://scholar.google.com/citations?user=cx_Kg8MAAAAJ&hl=en)]
+**Links:** [[GitHub](https://github.com/watchernyu)][[Google Scholar](https://scholar.google.com/citations?user=cx_Kg8MAAAAJ&hl=en)]
 
 [**Curriculum Vitae**](https://drive.google.com/file/d/1fQcwenA6s-717j63SsdWwOqc97WYC4-T/view?usp=sharing)
 
