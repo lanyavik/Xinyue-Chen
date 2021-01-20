@@ -4,7 +4,7 @@ layout: default
 
 # Che Wang's Homepage
 
-<img src="/other-figures/chewang.jpg" alt="Che Wang" width="200"/>
+![CheWang](/other-figures/chewang-small.png)
 
 **Email**: chewang[at]nyu[dot]edu
 
