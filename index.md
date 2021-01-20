@@ -4,7 +4,8 @@ layout: default
 
 # Che Wang's Homepage
 
-![CheWang](https://github.githubassets.com/images/icons/emoji/octocat.png)
+<img src="/other-figures/chewang.jpg" alt="Che Wang" width="200"/>
+
 **Email**: chewang[at]nyu.edu
 
 I am a PhD Student at New York University, advised by Professor Keith Ross. 
@@ -13,115 +14,13 @@ My research focuses on improving sample efficiency and achieving a better unders
 chewang[at]nyu.edu
 
 ## Publications
+* [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). Xinyue Chen*, Che Wang*, Zijian Zhou*, Keith Ross. ICLR 2021. 
+* [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179). Xinyue Chen, Zijian Zhou, Zheng Wang, Che Wang, Yanqiu Wu, Keith Ross. NeurIPS 2020.
+* [Striving for Simplicity and Performance in Off-Policy DRL: Output Normalization and Non-Uniform Sampling](https://arxiv.org/abs/1910.02208). Che Wang*, Yanqiu Wu*, Quan Vuong, Keith Ross. ICML 2020.
+* [Portfolio Online Evolution in StarCraft](https://ojs.aaai.org/index.php/AIIDE/article/view/12862/12709). Che Wang, Pan Chen, Yuanda Li, Christoffer Holmgard, Julian Togelius. Oral presentation at AIIDE 2016. 
+
+## Work in progress
+* Uncertainty Dampening: Correcting the Q-Landscape in Offline Reinforcement Learning. Che Wang, Keith Ross. 
+* [On the Convergence of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning](https://arxiv.org/abs/2002.03585). Che Wang, Keith Ross. 
 
 
-
-[Link to another page](./another-page.html).
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
