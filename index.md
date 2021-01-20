@@ -4,10 +4,16 @@ layout: default
 
 ![CheWang](/other-figures/chewang-small.png)
 
+PhD student in Computer Science.
+
 **Email**: chewang[at]nyu[dot]edu
 
-I am a PhD Student at New York University, advised by Professor Keith Ross. 
-My research focuses on improving sample efficiency and achieving a better understanding of deep reinforcement learning. 
+## About me
+
+I am a PhD student at New York University, advised by Professor [Keith Ross](https://sites.google.com/nyu.edu/keithross/). 
+My current research focuses on improving sample efficiency and achieving a better understanding of deep reinforcement learning. 
+
+Before becoming a PhD student, I was an undergraduate student at New York University Shanghai, as a member of the inaugural class of 2017. During my undergraduate study, I have taken a wide range of computer science courses including artificial intelligence, game programming, robotics, database, and security. I have also been working in the student government and was in charge of a number of large events. 
 
 ## Publications
 * [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). Xinyue Chen*, Che Wang*, Zijian Zhou*, Keith Ross. ICLR 2021. 
