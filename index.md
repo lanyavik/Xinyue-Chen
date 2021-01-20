@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Che Wang's Homepage
-
 ![CheWang](/other-figures/chewang-small.png)
 
 **Email**: chewang[at]nyu[dot]edu
