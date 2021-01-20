@@ -6,9 +6,9 @@ layout: default
 
 PhD student in Computer Science.
 
-**Email**: chewang[at]nyu[dot]edu
+**E-mail:** chewang[at]nyu[dot]edu
 
-**Github**: https://github.com/watchernyu
+**Links:** [[Github](https://github.com/watchernyu)][[Google Scholar](https://scholar.google.com/citations?user=cx_Kg8MAAAAJ&hl=en)]
 
 ## About me
 
