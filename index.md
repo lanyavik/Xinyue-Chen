@@ -11,9 +11,9 @@ PhD student in Computer Science.
 ## About me
 
 I am a PhD student at New York University, advised by Professor [Keith Ross](https://sites.google.com/nyu.edu/keithross/). 
-My current research focuses on improving sample efficiency and achieving a better understanding of deep reinforcement learning. 
+My current research focuses on improving sample efficiency and achieving a better understanding of deep reinforcement learning. I have been working as a teaching assistant for machine learning and reinforcement learning class. I often lead workshops to help students set up environments, work with hpc clusters, and debugging. 
 
-Before becoming a PhD student, I was an undergraduate student at New York University Shanghai, as a member of the inaugural class of 2017. During my undergraduate study, I have taken a wide range of computer science courses including artificial intelligence, game programming, robotics, database, and security. I have also been working in the student government and was in charge of a number of large events. 
+Before becoming a PhD student, I was an undergraduate student at New York University Shanghai, as a member of the inaugural class of 2017. In addition to deep learning, I have also been interested in other topics such as game design, robotics and data visualization and have created a number of related projects during my undergraduate study. 
 
 ## Publications
 * [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). Xinyue Chen*, Che Wang*, Zijian Zhou*, Keith Ross. ICLR 2021. 
@@ -24,5 +24,4 @@ Before becoming a PhD student, I was an undergraduate student at New York Univer
 ## Work in progress
 * Uncertainty Dampening: Correcting the Q-Landscape in Offline Reinforcement Learning. Che Wang, Keith Ross. 
 * [On the Convergence of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning](https://arxiv.org/abs/2002.03585). Che Wang, Keith Ross. 
-
 
