@@ -6,12 +6,10 @@ layout: default
 
 <img src="/other-figures/chewang.jpg" alt="Che Wang" width="200"/>
 
-**Email**: chewang[at]nyu.edu
+**Email**: chewang[at]nyu[dot]edu
 
 I am a PhD Student at New York University, advised by Professor Keith Ross. 
 My research focuses on improving sample efficiency and achieving a better understanding of deep reinforcement learning. 
-
-chewang[at]nyu.edu
 
 ## Publications
 * [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). Xinyue Chen*, Che Wang*, Zijian Zhou*, Keith Ross. ICLR 2021. 
