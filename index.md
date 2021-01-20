@@ -20,9 +20,9 @@ My current research focuses on improving sample efficiency and achieving a bette
 Before becoming a PhD student, I was an undergraduate student at New York University Shanghai, as a member of the inaugural class of 2017. In addition to deep learning, I have also been interested in other topics such as game design, robotics and data visualization and have created a number of related projects during my undergraduate study. 
 
 ## Publications
-* [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). Xinyue Chen*, **Che Wang***, Zijian Zhou*, Keith Ross. ICLR 2021. 
+* [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). Xinyue Chen*, **Che Wang**\*, Zijian Zhou\*, Keith Ross. ICLR 2021. 
 * [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179). Xinyue Chen, Zijian Zhou, Zheng Wang, **Che Wang**, Yanqiu Wu, Keith Ross. NeurIPS 2020.
-* [Striving for Simplicity and Performance in Off-Policy DRL: Output Normalization and Non-Uniform Sampling](https://arxiv.org/abs/1910.02208). **Che Wang***, Yanqiu Wu*, Quan Vuong, Keith Ross. ICML 2020.
+* [Striving for Simplicity and Performance in Off-Policy DRL: Output Normalization and Non-Uniform Sampling](https://arxiv.org/abs/1910.02208). **Che Wang**\*, Yanqiu Wu\*, Quan Vuong, Keith Ross. ICML 2020.
 * [Portfolio Online Evolution in StarCraft](https://ojs.aaai.org/index.php/AIIDE/article/view/12862/12709). **Che Wang**, Pan Chen, Yuanda Li, Christoffer Holmgard, Julian Togelius. Oral presentation at AIIDE 2016. 
 
 ## Work in progress
