@@ -29,3 +29,13 @@ Before becoming a PhD student, I was an undergraduate student at New York Univer
 * Uncertainty Dampening: Correcting the Q-Landscape in Offline Reinforcement Learning. **Che Wang**, Keith Ross. 
 * [On the Convergence of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning](https://arxiv.org/abs/2002.03585). **Che Wang**, Keith Ross. 
 
+## Teaching
+* In 2019 I have taken a collegiate teaching course led by Professor Jace Hargis at NYU Shanghai.
+* Since 2018 I have been working for the ML and RL class, I found that step-by-step video tutorials can be very helpful. I also tried design experimental research projects to help students learn the research workflow.  
+* From 2016-2018 I have worked as a mentor and instructor at BiggerLab. A few student teams that I worked with went to participate in the 2018 MIT Battlecode contest. My experience shows that even high school students can learn AI concepts very quickly when the class is exciting enough. 
+* In 2016 I was a peer tutor for the Intro to CS course and hosted a coding competition. The top prizes were drones generously sponsored by Professor Olivier Marin. 
+
+## Hobbies
+* I found teaching to be very interesting and constantly seek to improve my skills. 
+* I have been a dancer since 2013, I was one of the co-founders of the Xiaolong Shakers dance club at NYU Shanghai. 
+* I am a fan of science fiction and video games. 
