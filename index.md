@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![XinyueChen](/other-figures/chewang-small.png)
+![Xinyue Chen]()
 
 Undergrad student majoring in Computer Science.
 
