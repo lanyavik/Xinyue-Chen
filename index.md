@@ -1,7 +1,7 @@
 
 #Pronouns: she, her, hers#
 
-Undergrad student majoring in Computer Science. (Expected graduation: June 2022)
+Undergrad majoring in Computer Science. (Expected graduation: June 2022)
 
 **E-mail:** xc1305[at]nyu[dot]edu
 
@@ -20,7 +20,7 @@ My current research focuses on Deep Reinforcement Learning (DRL) and its applica
 * A paper accepted to Top-tier ML conference NeurIPS 2020.
 
 ## Publications
-* [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). **Xinyue Chen**\*, Che Wang\*, Zijian Zhou\*, Keith Ross. International Conference on Learning Representations (ICLR), 2021. Also 
+* [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). **Xinyue Chen**\*, Che Wang\*, Zijian Zhou\*, Keith Ross. International Conference on Learning Representations (ICLR), 2021. 
 * [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179). **Xinyue Chen**, Zijian Zhou, Zheng Wang, Che Wang, Yanqiu Wu, Keith Ross. Neural Information Processing Systems (NeurIPS), 2020.
 
 
