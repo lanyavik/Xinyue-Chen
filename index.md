@@ -19,8 +19,8 @@ My current research focuses on deep reinforcement learning and it applications.
 
 
 ## Publications
-* [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). Xinyue Chen*, **Che Wang**\*, Zijian Zhou\*, Keith Ross. ICLR 2021. 
-* [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179). Xinyue Chen, Zijian Zhou, Zheng Wang, **Che Wang**, Yanqiu Wu, Keith Ross. NeurIPS 2020.
+* [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). **Xinyue Chen**\*, Che Wang\*, Zijian Zhou\*, Keith Ross. ICLR 2021. 
+* [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179). **Xinyue Chen**, Zijian Zhou, Zheng Wang, Che Wang, Yanqiu Wu, Keith Ross. NeurIPS 2020.
 
 
 ## Under Construction ...
