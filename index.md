@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Xinyue Chen]()
+#![Xinyue Chen]()#
 
 Undergrad student majoring in Computer Science.
 
