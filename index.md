@@ -1,13 +1,13 @@
 
-#![Xinyue Chen]()#
+#Pronouns: she, her, hers#
 
 Undergrad student majoring in Computer Science.
 
 **E-mail:** xc1305[at]nyu[dot]edu
 
-**Links:** [[GitHub](https://github.com/lanyavik)][[Google Scholar]()]
+**Links:** [[GitHub](https://github.com/lanyavik)][[Google Scholar](https://scholar.google.com/citations?user=83MbL0IAAAAJ&hl=en)]
 
-[**Curriculum Vitae**]()
+**Curriculum Vitae** [Pls email me :)]
 
 ## About me
 
