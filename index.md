@@ -1,6 +1,3 @@
----
-layout: default
----
 
 #![Xinyue Chen]()#
 
