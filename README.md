@@ -1,2 +1,2 @@
 # Personal page
-Check out this site at: https://lanyavik.github.io/me/
+Check out this site at: https://lanyavik.github.io/Xinyue-Chen/
