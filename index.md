@@ -7,12 +7,13 @@ Undergrad majoring in Computer Science. (Expected graduation: June 2022)
 
 **Links:** [[Google Scholar](https://scholar.google.com/citations?user=83MbL0IAAAAJ&hl=en)] [[GitHub](https://github.com/lanyavik)]
 
-**Curriculum Vitae:** [Pls email me :)]
+**Curriculum Vitae until April 2021:** [https://drive.google.com/file/d/1lah0vya86RaVRCLeehdQA81wMfgZNKb2/view?usp=sharing] . For a more up-to-date version pls email me :)
 
 ## About me
 
 Hi! I am Xinyue Chen, a Junior student at New York University Shanghai. I am fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/).
-My current research focuses on Deep Reinforcement Learning (DRL) and its applications. I am also broadly interested in topics like Computer Vision and Robotics.
+My current research focuses on Deep Reinforcement Learning (DRL) and its applications. I am also broadly interested in topics like Computer Vision and Robotics. 
+I am looking for grad school oppurtunities after my undergraduate studies.
 
 ## News
 <!--- I will be working as a Summer intern in Prof. [Xiaolong Wang](https://xiaolonw.github.io/)'s group in UCSD.  --->
