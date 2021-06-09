@@ -3,7 +3,7 @@
 
 Undergrad majoring in Computer Science. (Expected graduation: June 2022)
 
-<img align="right" width="100" height="100" src="papers-figures/IMG_20210529_215508.jpg">
+<img align="right" width="300" height="400" src="papers-figures/IMG_20210529_215508.jpg">
 
 **E-mail:** xc1305[at]nyu[dot]edu
 
