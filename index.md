@@ -1,4 +1,4 @@
-<img align="right" width="280" height="360" src="papers-figures/IMG_20210529_215508.jpg">
+<img align="right" width="270" height="360" src="papers-figures/IMG_20210529_215508.jpg">
 
 #Pronouns: she, her, hers#
 
