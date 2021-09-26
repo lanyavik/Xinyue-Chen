@@ -12,7 +12,7 @@ Undergrad majoring in Computer Science. (Expected graduation: June 2022)
 
 ## About me
 
-Hi! I am Xinyue Chen, a Senior student at New York University Shanghai. I am fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/) of NYU. And I am working as a research intern in Prof. [Xiaolong Wang](https://sites.google.com/nyu.edu/keithross/)'s group starting from Summer 2021.
+Hi! I am Xinyue Chen, a Senior student at New York University Shanghai. I am fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/) of NYU. And I am working as a research intern in Prof. [Xiaolong Wang](https://sites.google.com/nyu.edu/keithross/)'s group in UCSD starting from Summer 2021.
 My current research focuses on Deep Reinforcement Learning (DRL) and its applications. I am also broadly interested in topics like Computer Vision and Robotics. 
 
 I am looking for grad school oppurtunities after my undergraduate studies.
