@@ -12,18 +12,18 @@ Undergrad majoring in Computer Science. (Expected graduation: June 2022)
 
 ## About me
 
-Hi! I am Xinyue Chen, a Junior student at New York University Shanghai. I am fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/).
+Hi! I am Xinyue Chen, a Senior student at New York University Shanghai. I am fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/) of NYU. And I am working as a research intern in Prof. [Xiaolong Wang](https://sites.google.com/nyu.edu/keithross/)'s group starting from Summer 2021.
 My current research focuses on Deep Reinforcement Learning (DRL) and its applications. I am also broadly interested in topics like Computer Vision and Robotics. 
 
 I am looking for grad school oppurtunities after my undergraduate studies.
-
-## News
-<!--- I will be working as a Summer intern in Prof. [Xiaolong Wang](https://xiaolonw.github.io/)'s group in UCSD.  --->
-* A paper accepted to Top-tier Machine Learning conference ICLR 2021
-* A paper accepted to Top-tier Machine Learning conference NeurIPS 2020.
 
 ## Publications
 * [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). **Xinyue Chen**\*, Che Wang\*, Zijian Zhou\*, Keith Ross. International Conference on Learning Representations (ICLR), 2021. 
 * [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179). **Xinyue Chen**, Zijian Zhou, Zheng Wang, Che Wang, Yanqiu Wu, Keith Ross. Neural Information Processing Systems (NeurIPS), 2020.
 
+
+## Services
+* Reviewer for NeurIPS 2021, ICLR 2022.
+* Learning assistant / Teaching assistant of NYU Shanghai, Calculus (Fall 2020).
+* Volunteer for Shanghai Sunshine Homeland Healing Home (August 2018), Renji Hospital (Summer 2016 and 2017), Shanghai Museum of Arts and Crafts (Spring 2017)
 
