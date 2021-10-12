@@ -18,8 +18,8 @@ My current research focuses on Deep Reinforcement Learning (DRL) and its applica
 I am looking for grad school oppurtunities after my undergraduate studies.
 
 ## Publications
-* [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). **Xinyue Chen**\*, Che Wang\*, Zijian Zhou\*, Keith Ross. International Conference on Learning Representations (ICLR), 2021. 
-* [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179). **Xinyue Chen**, Zijian Zhou, Zheng Wang, Che Wang, Yanqiu Wu, Keith Ross. Neural Information Processing Systems (NeurIPS), 2020.
+* [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). **Xinyue Chen**\*, Che Wang\*, Zijian Zhou\*, Keith Ross. International Conference on Learning Representations (ICLR), 2021. 【Acceptance Rate: 28.7%】
+* [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179). **Xinyue Chen**, Zijian Zhou, Zheng Wang, Che Wang, Yanqiu Wu, Keith Ross. Neural Information Processing Systems (NeurIPS), 2020. 【Acceptance Rate: 20.1%】
 
 
 ## Services
