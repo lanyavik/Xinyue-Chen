@@ -20,6 +20,7 @@ I am looking for grad school oppurtunities in Fall 2022.
 ## Publications
 * [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). **Xinyue Chen**\*, Che Wang\*, Zijian Zhou\*, Keith Ross. International Conference on Learning Representations (ICLR), 2021. 【Acceptance Rate: 28.7%】
 * [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179). **Xinyue Chen**, Zijian Zhou, Zheng Wang, Che Wang, Yanqiu Wu, Keith Ross. Neural Information Processing Systems (NeurIPS), 2020. 【Acceptance Rate: 20.1%】
+* Aggressive Q-Learning with Ensembles: Achieving Both High Sample Efficiency and High Asymptotic Performance. Yanqiu Wu, **Xinyue Chen**, Che Wang, Yiming Zhang, Zijian Zhou, Keith W. Ross. Submitted to ICLR 2022.
 
 
 ## Services
