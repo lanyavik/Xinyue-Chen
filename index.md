@@ -8,14 +8,15 @@ Undergrad majoring in Computer Science. (Expected graduation: June 2022)
 
 **Links:** [[Google Scholar](https://scholar.google.com/citations?user=83MbL0IAAAAJ&hl=en)] [[GitHub](https://github.com/lanyavik)]
 
-**Curriculum Vitae until April 2021:** [[CV](https://drive.google.com/file/d/1lah0vya86RaVRCLeehdQA81wMfgZNKb2/view?usp=sharing)] . For a more up-to-date version pls email me :)
+**Curriculum Vitae until April 2021:** [[CV](https://drive.google.com/file/d/1rz66ro2TLWIulDXdZtLUeAIy4K-fAQsH/view?usp=sharing)] .
+
 
 ## About me
 
 Hi! I am Xinyue Chen, a Senior student at New York University Shanghai. I am fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/) of NYU. And I am working as a research intern in Prof. [Xiaolong Wang](https://xiaolonw.github.io/)'s group in UCSD starting from Summer 2021.
 My current research focuses on Deep Reinforcement Learning (DRL) and its applications. I am also broadly interested in topics like Computer Vision and Robotics. 
 
-I am looking for grad school oppurtunities in Fall 2022.
+I am looking for grad school oppurtunities in Fall 2022 :)
 
 ## Publications
 * [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). **Xinyue Chen**\*, Che Wang\*, Zijian Zhou\*, Keith Ross. International Conference on Learning Representations (ICLR), 2021. 【Acceptance Rate: 28.7%】
