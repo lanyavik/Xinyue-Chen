@@ -8,7 +8,7 @@ Undergrad majoring in Computer Science. (Expected graduation: June 2022)
 
 **Links:** [[Google Scholar](https://scholar.google.com/citations?user=83MbL0IAAAAJ&hl=en)] [[GitHub](https://github.com/lanyavik)]
 
-**Curriculum Vitae until April 2021:** [[CV](https://drive.google.com/file/d/1rz66ro2TLWIulDXdZtLUeAIy4K-fAQsH/view?usp=sharing)] .
+**Curriculum Vitae (last updated: Dec 2021):** [[CV](https://drive.google.com/file/d/1rz66ro2TLWIulDXdZtLUeAIy4K-fAQsH/view?usp=sharing)] .
 
 
 ## About me
