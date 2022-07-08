@@ -12,7 +12,8 @@
 ## About me
 
 Hi! I am Xinyue Chen, an incoming PhD student at [UC Berkeley](https://bair.berkeley.edu/), working with Prof. [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/). I was fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/) of NYU and Prof. [Xiaolong Wang](https://xiaolonw.github.io/) of UCSD during my undergraduate studies.
-My current research interest is Deep Reinforcement Learning (DRL) and its applications. I am also broadly interested in topics like Computer Vision and Robotics. 
+
+My current research is in Deep Reinforcement Learning (DRL) and its applications. I am also broadly interested in topics like Computer Vision and Robotics. 
 
 
 
@@ -23,8 +24,8 @@ My current research interest is Deep Reinforcement Learning (DRL) and its applic
 
 
 ## Education
-B. Sc. in Computer Science, New York University Shanghai, September 2018 ~ June 2022.
-Ph. D. in Computer Science, University of California, Berkeley. August 2022 ~ Present.
+* B. Sc. in Computer Science, New York University Shanghai, September 2018 ~ June 2022.
+* Ph. D. in Computer Science, University of California, Berkeley. August 2022 ~ Present.
 
 
 ## Services
