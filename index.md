@@ -2,19 +2,24 @@
 
 #Pronouns: she, her, hers#
 
-Undergrad majoring in Computer Science. (Expected graduation: June 2022)
+**Email:** xinyuevikchen[at]berkeley[dot]edu
 
-**E-mail:** xc1305[at]nyu[dot]edu
-
-**Links:** [[Google Scholar](https://scholar.google.com/citations?user=83MbL0IAAAAJ&hl=en)] [[GitHub](https://github.com/lanyavik)]
+**Links:** [[Google Scholar](https://scholar.google.com/citations?pli=1&authuser=1&user=s67FB6cAAAAJ)] [[GitHub](https://github.com/lanyavik)]
 
 **Curriculum Vitae:** [updating] .
 
 
 ## About me
 
-Hi! I am Xinyue Chen, a Senior student at New York University Shanghai. I am fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/) of NYU. And I am working as a research intern in Prof. [Xiaolong Wang](https://xiaolonw.github.io/)'s group in UCSD starting from Summer 2021.
-My current research focuses on Deep Reinforcement Learning (DRL) and its applications. I am also broadly interested in topics like Computer Vision and Robotics.
+Hi! I am Xinyue Chen, a first-year PhD student at [UC Berkeley](https://bair.berkeley.edu/) working with Prof. [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/). 
+During my undergraduate studies, I was fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/) of NYU and Prof. [Xiaolong Wang](https://xiaolonw.github.io/) of UCSD.
+My current research is on Reinforcement Learning and its applications. I am also broadly interested in topics like Representation Learning, Vision and Robotics.
+
+
+
+## Education
+* B. Sc. in Computer Science, New York University Shanghai, September 2018 ~ June 2022. [Graduated with Dean's Award in Computer Science, Data Science, and Engineering (top-1 honor in the department)]
+* Ph. D. in Computer Science, University of California, Berkeley. August 2022 ~ Present.
 
 
 
@@ -24,7 +29,8 @@ My current research focuses on Deep Reinforcement Learning (DRL) and its applica
 * [Aggressive Q-Learning with Ensembles: Achieving Both High Sample Efficiency and High Asymptotic Performance](https://arxiv.org/abs/2111.09159). Yanqiu Wu, **Xinyue Chen**, Che Wang, Yiming Zhang, Zijian Zhou, Keith W. Ross. Submitted.
 
 
+
 ## Services
 * Reviewer for NeurIPS 2021, ICLR 2022.
 * Learning assistant / Teaching assistant of NYU Shanghai, Calculus (Fall 2020).
-* Volunteer for Shanghai Sunshine Homeland Healing Home (August 2018), Renji Hospital (Summer 2016 and 2017), Shanghai Museum of Arts and Crafts (Spring 2017)
+* Volunteer for Shanghai Sunshine Homeland Healing Home (August 2018), Renji Hospital (Summer 2016 and 2017), Shanghai Museum of Arts and Crafts (Spring 2017).
