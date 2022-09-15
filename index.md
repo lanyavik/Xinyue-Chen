@@ -2,7 +2,7 @@
 
 #Pronouns: she, her, hers#
 
-**Email:** xinyuevikchen[at]berkeley[dot]edu
+**Email:** xinyuevikchen[at]eecs.berkeley.edu
 
 **Links:** [[Google Scholar](https://scholar.google.com/citations?pli=1&authuser=1&user=s67FB6cAAAAJ)] [[GitHub](https://github.com/lanyavik)]
 
@@ -11,7 +11,7 @@
 
 ## About me
 
-Hi! I am Xinyue Chen, an incoming PhD student at [UC Berkeley](https://bair.berkeley.edu/).
+Hi! I am Xinyue Chen, a first-year PhD student at [UC Berkeley](https://bair.berkeley.edu/) working with Prof. [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/). 
 During my undergraduate studies, I was fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/) of NYU and Prof. [Xiaolong Wang](https://xiaolonw.github.io/) of UCSD.
 My current research is on Reinforcement Learning and its applications. I am also broadly interested in topics like Representation Learning, Vision and Robotics.
 
