@@ -11,7 +11,7 @@
 
 ## About me
 
-Hi! I am Xinyue Chen, a first-year PhD student at [UC Berkeley](https://bair.berkeley.edu/) working with Prof. [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/) and Prof. [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/). 
+Hi! I am Xinyue Chen, a first-year PhD student at [UC Berkeley](https://bair.berkeley.edu/) working with Prof. [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/). 
 During my undergraduate studies, I was fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/) of NYU and Prof. [Xiaolong Wang](https://xiaolonw.github.io/) of UCSD.
 My current research is on Reinforcement Learning and its applications. I am also broadly interested in topics like Representation Learning, Vision and Robotics.
 
